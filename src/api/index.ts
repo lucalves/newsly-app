@@ -8,6 +8,6 @@ export const apiClient = axios.create({
   baseURL: BASE_URL,
   timeout: 10000,
   headers: {
-    'X-Api-key': '<YOUR API KEY>',
+    'X-Api-key': '03cd8236dfd94364bf839b2bbdc5b5a8',
   },
 });

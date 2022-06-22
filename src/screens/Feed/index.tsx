@@ -24,7 +24,7 @@ export const Feed: React.FC = () => {
     dispatch(getNewsFeed(setIsLoading, selectedCategory));
   }, [dispatch, selectedCategory]);
 
-  const backgroundColor = useColorScheme() === 'dark' ? '#222' : '#fff';
+  const backgroundColor = useColorScheme() === 'dark' ? '#222' : '#696969';
 
   return (
     <View style={[styles.container, {backgroundColor}]}>
