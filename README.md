@@ -1,5 +1,7 @@
 # newsly-app
 
+[![Based On Badge](https://img.shields.io/badge/Based%20on-this%20article-black)](https://blog.logrocket.com/create-news-feed-react-native/)
+
 An application created to display news using [redux](https://redux.js.org/) and [redux-persist](https://github.com/rt2zz/redux-persist) with async storage.
 
 ## Screenshots
