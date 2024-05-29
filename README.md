@@ -13,7 +13,7 @@ An application created to display news using [redux](https://redux.js.org/) and 
 - [React Native](https://reactnative.dev/)
 - [Redux](https://redux.js.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [AppCenter CodePush](https://appcenter.ms/)
+- [CodePush](https://appcenter.ms/)
 
 ## How to install
 
