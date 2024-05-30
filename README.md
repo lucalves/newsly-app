@@ -15,7 +15,7 @@ An application created to display news using [redux](https://redux.js.org/) and 
 - [Typescript](https://www.typescriptlang.org/)
 - [CodePush](https://appcenter.ms/)
 
-## How to install
+## How to install 🚀
 
 Clone into your prefered folder:
 
